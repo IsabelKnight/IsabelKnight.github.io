@@ -1,0 +1,38 @@
+.jumbotron{
+    background-image: "https://i.imgur.com/HsDkMVF.png";
+	background-size: cover;
+	color: #000000;
+	background-color: #81e3e3;
+	padding-top: 200px;
+	padding-bottom: 200px;
+
+}
+
+.card{
+	margin-top: 30px;
+	padding-bottom: 5px;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("https://i.imgur.com/dK6PSJ2.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+	/*background: url("https://i.imgur.com/HouUElM.png");
+	background-size: cover;
+	background-position: center top;*/
+	font-family: 'Nunito', sans-serif;
+}
+
+html{
+	height: 100%;
+}
